@@ -16,4 +16,5 @@ Directory Structure:
   - popup.js: This is the backend of the extension. Here I have attached an action listener to the button, that will get activated on click. When activated, the script creates a form that sends request to the "gtmetrix.com" and fetches result for the current tab.
 
 Icon made by Popcorns Arts from www.flaticon.com 
+
 Reference: https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/
